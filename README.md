@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tomás Sorgetti</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+
+
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>     About me
 <p align="left">
 I am a full stack web developer with a special focus on front-end development. My curiosity and desire for improvement led me to become a luthier and later get involved in web development.
