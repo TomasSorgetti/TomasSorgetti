@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tomás Sorgetti</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+![Linkedin_img](https://github.com/user-attachments/assets/bc4fc1b0-1b1c-44ca-8d21-7c50ad40220b)
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
