@@ -19,5 +19,17 @@ My goal is to create exceptional online experiences for users, focusing on usabi
 <a href="https://discord.gg/tomassorg456#3428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tomassorg456#3428" height="30" width="40" /></a>
 </p>
 
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=TomasSorgetti&count_private=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasSorgetti&layout=compact&langs_count=8&theme=tokyonight">
+    </div>
+    <br>
+    <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=TomasSorgetti" alt="https://github.com/TomasSorgetti"/>
+        <a><img src="https://img.shields.io/github/followers/TomasSorgetti?label=Follow&style=social"></a>
+    </div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
