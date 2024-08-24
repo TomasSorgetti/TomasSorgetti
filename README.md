@@ -6,7 +6,7 @@
 "lastname": "Sorgetti",
 "location": "Buenos Aires, Argentina", 
 "email": "tomassorgetti456@gmail.com",
-"whatsapp": "+54 11 3632-3780",
+"whatsapp": 541136323780,
 "website": "tomassorgetti.com.ar",
 "technologies": ["html", "css", "figma", "tailwind", "javascript", "react", "next", "astro",
 "node", "express", "sequelize", "mysql", "postgresql"],
