@@ -16,6 +16,14 @@ My goal is to create exceptional online experiences for users, focusing on <stro
 <p>
 
 <h3 align="left">Connect with me:</h3>
+    ```
+    {
+    name: Tomás,
+    lastName: Sorgetti,
+    email: tomassorgetti456@gmail.com,
+    website: tomassorgetti.com.ar,
+    }
+    ```
 <div align="center" width="100%">
     <table width="100%">
         <tr>
