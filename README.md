@@ -16,7 +16,7 @@ My goal is to create exceptional online experiences for users, focusing on <stro
 <p>
 
 <h3 align="left">Connect with me:</h3>
-    ```
+    ```bash
     {
     name: Tomás,
     lastName: Sorgetti,
