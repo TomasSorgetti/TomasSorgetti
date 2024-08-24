@@ -32,7 +32,7 @@ My goal is to create exceptional online experiences for users, focusing on <stro
             </td>
             <td align="right">
                 <a href="https://tomassorgetti.com.ar" target="_blank" >
-                    <code style="background-color: #FF0000; color: #FFFFFF; padding: 5px; border-radius: 5px;">Website</code>
+                    <code style="background-color: #FE0072; color: #FFFFFF; padding: 12px 24px; border-radius: 2px;">Website</code>
                 </a>
             </td>
         </tr>
