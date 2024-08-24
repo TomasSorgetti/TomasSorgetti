@@ -1,11 +1,15 @@
 ![Linkedin_img](https://github.com/user-attachments/assets/fe048bf9-c3a5-4ec1-a623-1d73a0f99d5f)
 
-```bash
+```json
 {
-name:Tomas,
-lastname: Sorgetti,
-email: tomassorgetti456@gmail.com,
-technologies: [html, css, figma, tailwind, javascript, react, next, astro, node, express, sequelize, mysql, postgresql]
+"name": "Tomas",
+"lastname": "Sorgetti",
+"location": "Buenos Aires, Argentina", 
+"email": "tomassorgetti456@gmail.com",
+"whatsapp": "+54 11 3632-3780",
+"website": "tomassorgetti.com.ar",
+"technologies": ["html", "css", "figma", "tailwind", "javascript", "react", "next", "astro",
+"node", "express", "sequelize", "mysql", "postgresql"],
 }
 ```
 
