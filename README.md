@@ -16,16 +16,27 @@ My goal is to create exceptional online experiences for users, focusing on <stro
 <p>
 
 <h3 align="left">Connect with me:</h3>
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; height: 100px;">
-    
-<div >
-    <a href="https://linkedin.com/in/tomas sorgetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas sorgetti" height="30" width="40" /></a>
-    <a href="https://instagram.com/tomassorg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomassorg" height="30" width="40" /></a>
-    <a href="https://discord.gg/tomassorg456#3428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tomassorg456#3428" height="30" width="40" /></a>
-</div>
-    
-<a href="https://tomassorgetti.com.ar" background="red" >Website</a>
-
+<div align="center">
+    <table width="100%">
+        <tr>
+            <td align="left">
+                <a href="https://linkedin.com/in/tomas-sorgetti" target="_blank">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas sorgetti" height="30" width="40" />
+                </a>
+                <a href="https://instagram.com/tomassorg" target="_blank">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomassorg" height="30" width="40" />
+                </a>
+                <a href="https://discord.gg/tomassorg456#3428" target="_blank">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tomassorg456#3428" height="30" width="40" />
+                </a>
+            </td>
+            <td align="right">
+                <a href="https://tomassorgetti.com.ar" target="_blank">
+                    Website
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 
