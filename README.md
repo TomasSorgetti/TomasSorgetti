@@ -13,17 +13,8 @@ My passion for <strong>optimizing processes</strong> and my <strong>self-taught<
 My goal is to create exceptional online experiences for users, focusing on <strong>usability</strong>, <strong>attractive design</strong>, and <strong>performance optimization</strong>.
 </p>
 
-<p>
 
-<h3 align="left">Connect with me:</h3>
-```bash
-{
-name: Tomás,
-    lastName: Sorgetti,
-    email: tomassorgetti456@gmail.com,
-    website: tomassorgetti.com.ar,
-}
-
+<h2 align="left">Connect with me:</h2>
 <div align="center" width="100%">
     <table width="100%">
         <tr>
