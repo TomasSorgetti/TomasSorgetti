@@ -1,7 +1,13 @@
 ![Linkedin_img](https://github.com/user-attachments/assets/fe048bf9-c3a5-4ec1-a623-1d73a0f99d5f)
 
-
-
+```bash
+{
+name:Tomas,
+lastname: Sorgetti,
+email: tomassorgetti456@gmail.com,
+technologies: [html, css, figma, tailwind, javascript, react, next, astro, node, express, sequelize, mysql, postgresql]
+}
+```
 
 <h1>About Me</h1>
 <p>
