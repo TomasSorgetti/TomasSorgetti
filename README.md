@@ -16,11 +16,15 @@ My goal is to create exceptional online experiences for users, focusing on <stro
 <p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tomas sorgetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas sorgetti" height="30" width="40" /></a>
-<a href="https://instagram.com/tomassorg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomassorg" height="30" width="40" /></a>
-<a href="https://discord.gg/tomassorg456#3428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tomassorg456#3428" height="30" width="40" /></a>
-</p>
+<div>
+    
+<div align="left">
+    <a href="https://linkedin.com/in/tomas sorgetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas sorgetti" height="30" width="40" /></a>
+    <a href="https://instagram.com/tomassorg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomassorg" height="30" width="40" /></a>
+    <a href="https://discord.gg/tomassorg456#3428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tomassorg456#3428" height="30" width="40" /></a>
+</div>
+<a align="right" href="https://tomassorgetti.com.ar">Website</a>
+</div>
 
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
