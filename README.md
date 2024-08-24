@@ -4,11 +4,14 @@
 
 
 <h1>About Me</h1>
-I am a full stack web developer with a special focus on front-end development. My curiosity and desire for improvement led me to become a luthier and later get involved in web development.
+<p>
+    
+I am a <strong>full stack web developer</strong> with a special focus on <strong>front-end development</strong>. My curiosity and desire for improvement led me to become a <strong>luthier</strong> and later get involved in <strong>web development</strong>.
 
-My passion for optimizing processes and my self-taught nature have allowed me to acquire technical skills and a perfectionist approach in my work.
+My passion for <strong>optimizing processes</strong> and my <strong>self-taught</strong> nature have allowed me to acquire technical skills and a perfectionist approach in my work.
 
-My goal is to create exceptional online experiences for users, focusing on usability, attractive design, and performance optimization.
+My goal is to create exceptional online experiences for users, focusing on <strong>usability</strong>, <strong>attractive design</strong>, and <strong>performance optimization</strong>.
+</p>
 
 <p>
 
