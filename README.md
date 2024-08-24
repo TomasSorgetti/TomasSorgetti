@@ -16,7 +16,7 @@ My goal is to create exceptional online experiences for users, focusing on <stro
 <p>
 
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div align="center" width="100%">
     <table width="100%">
         <tr>
             <td align="left">
@@ -31,8 +31,8 @@ My goal is to create exceptional online experiences for users, focusing on <stro
                 </a>
             </td>
             <td align="right">
-                <a href="https://tomassorgetti.com.ar" target="_blank">
-                    Website
+                <a href="https://tomassorgetti.com.ar" target="_blank" >
+                    <code style="background-color: #FF0000; color: #FFFFFF; padding: 5px; border-radius: 5px;">Website</code>
                 </a>
             </td>
         </tr>
