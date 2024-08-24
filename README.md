@@ -23,7 +23,10 @@ My goal is to create exceptional online experiences for users, focusing on <stro
     <a href="https://instagram.com/tomassorg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomassorg" height="30" width="40" /></a>
     <a href="https://discord.gg/tomassorg456#3428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tomassorg456#3428" height="30" width="40" /></a>
 </div>
-<a align="right" href="https://tomassorgetti.com.ar">Website</a>
+<div align="right">
+    
+<a href="https://tomassorgetti.com.ar">Website</a>
+</div>
 </div>
 
 
