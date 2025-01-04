@@ -1,5 +1,6 @@
 
-![Linkedin_img](https://github.com/user-attachments/assets/fe048bf9-c3a5-4ec1-a623-1d73a0f99d5f)
+![github](https://github.com/user-attachments/assets/7e0f4ecb-adf8-4283-a191-3af79b9aac6c)
+
 
 <h1>About Me</h1>
 
