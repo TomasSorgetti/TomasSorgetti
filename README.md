@@ -1,27 +1,4 @@
-
-![github](https://github.com/user-attachments/assets/7e0f4ecb-adf8-4283-a191-3af79b9aac6c)
-
-
-<h1>About Me</h1>
-
-<p>
-I am a <strong>full stack web developer</strong> with a special focus on <strong>front-end development</strong>. My curiosity and desire for improvement led me to become a <strong>luthier</strong> and later get involved in <strong>web development</strong>.
-
-My passion for <strong>optimizing processes</strong> and my <strong>self-taught</strong> nature have allowed me to acquire technical skills and a perfectionist approach in my work.
-
-My goal is to create exceptional online experiences for users, focusing on <strong>usability</strong>, <strong>attractive design</strong>, and <strong>performance optimization</strong>.
-</p>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="left">Technologies that i know</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,postgres,express,figma,github,html,js,linux,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,&perline=14" />
-  </a>
-</p>
+![github](https://github.com/user-attachments/assets/14d261ad-1ecf-4d82-a5d3-4453996506c2)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
