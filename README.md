@@ -17,14 +17,6 @@
     </a>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<a href="https://github.com/TomasSorgetti">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TomasSorgetti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TomasSorgetti&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/tomas-sorgetti/"><img src="https://img.shields.io/badge/-Tomas%20Sorgetti-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tomassorgetti456@gmail.com"><img src="https://img.shields.io/badge/-tomassorgetti456@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
